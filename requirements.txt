@@ -1,0 +1,16 @@
+asgiref==3.10.0
+bcrypt==5.0.0
+cffi==2.0.0
+cryptography==46.0.2
+Django==5.2.7
+django-cors-headers==4.9.0
+djangorestframework==3.16.1
+greenlet==3.2.4
+mysqlclient==2.2.7
+pycparser==2.23
+PyJWT==2.10.1
+python-environ==0.4.54
+SQLAlchemy==2.0.43
+sqlparse==0.5.3
+typing_extensions==4.15.0
+tzdata==2025.2
